@@ -34,6 +34,3 @@ const onFormSubmitting = event => {
 
 refs.form.addEventListener('input', throttle(updateFeedbackData, 500));
 refs.form.addEventListener('submit', onFormSubmitting);
-
-
-//..//
