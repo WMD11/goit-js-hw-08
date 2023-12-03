@@ -1,6 +1,4 @@
-
 import throttle from 'lodash.throttle';
-
 
 const refs = {
     email: document.querySelector('[name="email"]'),
